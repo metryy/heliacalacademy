@@ -47,3 +47,8 @@ The Law of Attraction, Neville Goddard’s work, is a great tool for self-help t
 
 You may have heard of the LoA or haven’t, it’s simply a book to help others relate to the universal laws in a practical manner; active imagination is a highly important practice, if you manage to do it enough you can sync your brain hemispheres. The Zen Monks who have trained years practice all of this in their mind. They understand better than all the other groups I’ve listed the importance of the mind. It is a huge fallacy of modern day Yogis to believe the mind is illusory.
 
+## Citations
+* https://scienceterms.net/psychology/double-slit-experiment
+* https://en.wikipedia.org/wiki/Jesus
+* https://en.wikipedia.org/wiki/The_Buddha
+* https://en.wikipedia.org/wiki/The_Kybalion
