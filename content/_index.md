@@ -20,4 +20,4 @@ Use the Search bar to look for information using key words.
   - **future-proof** & free for anyone to read ❤️
 ```
 
-{{< cta cta_text="👉 Check out the Spirituality notebook" cta_link="machine-learning" >}}
+{{< cta cta_text="👉 Check out the Spirituality notebook to get started" cta_link="spirituality" >}}
