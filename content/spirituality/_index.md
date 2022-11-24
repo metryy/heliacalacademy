@@ -1,8 +1,8 @@
 ---
 # Title, summary, and page position.
-title: 🤖 Machine Learning
-linktitle: 🤖 Machine Learning
-summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
+title: 🤖 General
+linktitle: 🤖 General
+summary: Publications of Heliacal Academy catered towards self-improvement
 weight: 1
 # icon: book
 # icon_pack: fas
