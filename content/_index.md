@@ -17,7 +17,7 @@ Use the Search bar to look for information using key words.
 - Heliacal Academy
   - **extensive** knowledge base
   - **easy**: just plain text Markdown files
-  - **future-proof** & free for anyone to use ❤️
+  - **future-proof** & free for anyone to read ❤️
 ```
 
 {{< cta cta_text="👉 Check out the Spirituality notebook" cta_link="machine-learning" >}}
