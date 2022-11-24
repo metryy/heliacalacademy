@@ -6,9 +6,7 @@ date: '2019-05-05T00:00:00+01:00'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
-
-# The Universe is Mental
-
+# Forenote
 My earliest realization aligning to this core truth was the Double Slit experiment in quantum mechanics, when I was very younger, I believe before 11. I will never understand how this went over the heads of millions!
 
 Upon a person observing particles, scientists recorded particles literally changing their atomic structure, just like how you would render graphics oma game when a player looks at an area, from a wave to a denser form (aka. particle, or consequence of).
