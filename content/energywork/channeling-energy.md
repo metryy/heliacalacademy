@@ -35,3 +35,6 @@ Grounding is the process of reconnecting to your nature and detoxifying your ene
 You may have never considered your energy to be toxic, however, energy arund us can stick to us like we're magnets so it's important to remove any unnecessary energy so it has no chance of damaging anything. 
 
 If you can't go out into nature, you can try replacing every negative feeling with a positive memory to cease any negative thought loops. Doing this long enough will make it your brain's default mode of operation. 
+
+Listening to 7.83 Hz binaural beats also grounds you. This is the Schumann Resonance and is very popular on YouTube. It is an automatic process due to the phenomena of brainwave entrainment. 
+
